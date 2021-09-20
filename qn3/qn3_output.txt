@@ -1,0 +1,11 @@
+abc
+New updated file name - abc.12092021.log
+def
+New updated file name - def.12092021.log
+ghi
+New updated file name - ghi.12092021.log
+jkl
+New updated file name - jkl.12092021.log
+mno
+New updated file name - mno.12092021.log
+
